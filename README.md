@@ -17,7 +17,7 @@ A lightweight Flask-based Web Application Firewall that monitors and filters inc
 ## 🏗️ Project Structure
 
 ```
-AaradhyProj/
+Basic-Flask-Based-Web-Application-Firewall/
 │
 ├── app.py                   # Main Flask application file
 ├── request_logs.txt          # Stores details of blocked/suspicious requests
