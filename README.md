@@ -34,8 +34,8 @@ AaradhyProj/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/aaradhygarg/Basic-Flask-Based-Web-Application-Firewall
-cd Basic Flask Based WAF
+git clone https://github.com/aaradhygarg/Basic-Flask-Based-Web-Application-Firewall.git
+cd Basic-Flask-Based-Web-Application-Firewall
 ```
 
 ### 2️⃣ Create a Virtual Environment
